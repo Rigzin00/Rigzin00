@@ -13,7 +13,6 @@
 - 👯 I'm looking to collaborate on a **[Guesthouse Website](https://github.com/Rigzin00/Guesthouse)**.
 - 👨‍💻 All of my projects are available at my [GitHub Portfolio](https://github.com/Rigzin00/-portfolio).
 - 💬 **Ask me about**: Web development, JavaScript, React, Node.js, or how to build full-stack applications!
-- 📫 **Reach me at**: [angtakrigzin@gmail.com](mailto:angtakrigzin@gmail.com).
 - ⚡ **Fun Fact**: I love learning about new technologies and experimenting with code. When I'm not coding, you'll find me exploring nature or trying my hand at photography!
 
 ---
