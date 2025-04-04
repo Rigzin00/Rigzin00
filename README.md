@@ -68,7 +68,7 @@ I’m always open to collaborating on exciting projects, sharing ideas, and disc
 
 ### 📊 GitHub Stats & Activity:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rigzin00&show_icons=true&locale=en&layout=compact" alt="rigzin00" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rigzin00&show_icons=true&locale=en&layout=compact&langs_count=6" alt="rigzin00" />
 </p>
 
 <p align="center">
