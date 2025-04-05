@@ -46,7 +46,7 @@ I am a passionate and driven **Web Developer** and **UI/UX Designer**, currently
 ### 🤝 Let’s Connect:
 I’m always open to collaborating on exciting projects, sharing ideas, and discussing best practices in web development and design.
 
-- 📧 **Email**: [rigzin@example.com](mailto:rigzin@example.com) (Replace with your actual email)
+- 📧 **Email**: [angtakrigzin@gmail.com]
 - 🐦 **Twitter**: [@rigzin](https://twitter.com/rigzin)
 - 🌐 **LinkedIn**: [rigzin-angtak](https://linkedin.com/in/rigzin-angtak)
 - 📝 **Dev.to**: [@rigzin](https://dev.to/dev.to/@rigzin)
