@@ -48,7 +48,7 @@ I’m always open to collaborating on exciting projects, sharing ideas, and disc
 
 - 📧 **Email**: [angtakrigzin@gmail.com]
 - 🐦 **Twitter**: [@rigzin](https://twitter.com/rigzin)
-- 🌐 **LinkedIn**: [rigzin-angtak](https://linkedin.com/in/rigzin-angtak)
+- 🌐 **LinkedIn**: [rigzin-angtak](https://linkedin.com/in/rigzinangtak)
 - 📝 **Dev.to**: [@rigzin](https://dev.to/dev.to/@rigzin)
 - 📸 **Instagram**: [@_rigzin_00_](https://instagram.com/_rigzin_00_)
 
