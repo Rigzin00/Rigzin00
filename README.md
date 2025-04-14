@@ -82,7 +82,7 @@ I’m always open to collaborating on exciting projects, sharing ideas, and disc
 ---
 
 ### 📑 Design Portfolio:
-- **UI/UX Design Portfolio**: [Coming Soon](#) (Replace with your actual design portfolio link when ready)
+- **UI/UX Design Portfolio**: [Coming Soon]
 
 ---
 
