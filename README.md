@@ -81,10 +81,10 @@ I’m always open to collaborating on exciting projects, sharing ideas, and disc
 
 ---
 
-### 📑 Design Portfolio:
-- **UI/UX Design Portfolio**: [Coming Soon](#)
+### 🎨 UI/UX Design Portfolio
 
----
+- **Figma-based UI/UX Projects**: [View Portfolio](https://bit.ly/44pDo3K)
+
 
 ### 💬 Fun & Miscellaneous:
 - I’m passionate about building **user-centered** designs and **clean code**.
