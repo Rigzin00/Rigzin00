@@ -71,13 +71,8 @@ I’m always open to collaborating on exciting projects, sharing ideas, and disc
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rigzin00&show_icons=true&locale=en&layout=compact&langs_count=6" alt="rigzin00" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rigzin00&show_icons=true&locale=en" alt="rigzin00" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rigzin00&" alt="rigzin00" />
-</p>
+
 
 ---
 
