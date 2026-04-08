@@ -12,7 +12,7 @@ I am a passionate and driven **Web Developer** and **UI/UX Designer**, currently
 
 - 🔭 I’m currently working on **[Walnut Snowveil Project](https://github.com/Rigzin00/Walnut-Snowveil)**, and collaborating on various web development projects.
 - 🌱 Continuously learning and improving my skills in **JavaScript**, **React**, **Node.js**, and **MongoDB**.
-- 👨‍💻 Explore all my projects on my [GitHub Portfolio]([https://bit.ly/44pDo3K](https://www.figma.com/proto/C4VMzsQVriXs5AavWaKyYN/U?page-id=0%3A1&node-id=1-207&viewport=226%2C288%2C0.03&t=XH9MlCy5xKieQ6uO-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=1%3A207)).
+- 👨‍💻 Explore all my projects on my [GitHub Portfolio](https://www.figma.com/proto/C4VMzsQVriXs5AavWaKyYN/U?page-id=0%3A1&node-id=1-207&viewport=226%2C288%2C0.03&t=XH9MlCy5xKieQ6uO-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=1%3A207).
 - 💬 I love discussing **web development**, **UI/UX design**, **JavaScript**, **React**, **Node.js**, and how to create end-to-end web applications.
 - ⚡ **Fun Fact**: When I’m not coding or designing, I enjoy hiking, photography, and exploring new tech trends.
 
@@ -77,7 +77,7 @@ I’m always open to collaborating on exciting projects, sharing ideas, and disc
 
 ### 🎨 UI/UX Design Portfolio
 
-- **Figma-based UI/UX Projects**: [View Portfolio]([https://bit.ly/44pDo3K](https://www.figma.com/proto/C4VMzsQVriXs5AavWaKyYN/U?page-id=0%3A1&node-id=1-207&viewport=226%2C288%2C0.03&t=XH9MlCy5xKieQ6uO-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=1%3A207))
+- **Figma-based UI/UX Projects**: [View Portfolio](https://www.figma.com/proto/C4VMzsQVriXs5AavWaKyYN/U?page-id=0%3A1&node-id=1-207&viewport=226%2C288%2C0.03&t=XH9MlCy5xKieQ6uO-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=1%3A207)
 
 
 ### 💬 Fun & Miscellaneous:
