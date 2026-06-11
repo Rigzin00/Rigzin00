@@ -1,176 +1,278 @@
-<h1 align="center">Hello, I'm RIGZIN 👋</h1>
-<h3 align="center">Aspiring Web Developer | UI/UX Designer | Passionate About Crafting Beautiful & Functional Digital Experiences</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1,8B5CF6,A855F7&height=200&section=header&text=Rigzin%20Angtak&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20UI%2FUX%20Designer&descSize=20&descAlignY=60&animation=fadeIn" width="100%"/>
+</div>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=rigzin00&label=Profile%20views&color=0e75b6&style=flat" alt="rigzin00" /> 
-</p>
+<div align="center">
+  <a href="https://linkedin.com/in/rigzinangtak"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://twitter.com/rigzin"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;
+  <a href="https://dev.to/rigzin"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>&nbsp;
+  <a href="mailto:angtakrigzin@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://instagram.com/_rigzin_00_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
+  <a href="https://www.figma.com/proto/C4VMzsQVriXs5AavWaKyYN/U?page-id=0%3A1&node-id=1-207&viewport=226%2C288%2C0.03&t=XH9MlCy5xKieQ6uO-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=1%3A207"><img src="https://img.shields.io/badge/Portfolio-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
 
----
+  <br/><br/>
 
-### 🚀 About Me:
-I am a passionate and driven **Web Developer** and **UI/UX Designer**, currently honing my skills in both frontend and backend technologies. My focus is on creating seamless and engaging web applications while ensuring a strong user experience through thoughtful design.
+  <img src="https://komarev.com/ghpvc/?username=rigzin00&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/rigzin00?style=for-the-badge&color=8B5CF6&label=FOLLOWERS"/>
+</div>
 
-- 🔭 I’m currently working on **[Walnut Snowveil Project](https://github.com/Rigzin00/Walnut-Snowveil)**, and collaborating on various web development projects.
-- 🌱 Continuously learning and improving my skills in **JavaScript**, **React**, **Node.js**, and **MongoDB**.
-- 👨‍💻 Explore all my projects on my [GitHub Portfolio](https://www.figma.com/proto/C4VMzsQVriXs5AavWaKyYN/U?page-id=0%3A1&node-id=1-207&viewport=226%2C288%2C0.03&t=XH9MlCy5xKieQ6uO-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=1%3A207).
-- 💬 I love discussing **web development**, **UI/UX design**, **JavaScript**, **React**, **Node.js**, and how to create end-to-end web applications.
-- ⚡ **Fun Fact**: When I’m not coding or designing, I enjoy hiking, photography, and exploring new tech trends.
-
----
-
-### 📚 Technologies & Skills:
-#### 💻 Programming Languages & Frameworks:
-- **Frontend**: - HTML5,CSS3 / SCSS,JavaScript (ES6+), React, Next.js (App Router), Tailwind CSS, Framer Motion  
-- **Backend**: Node.js, Express.js, RESTful APIs,  Supabase (Authentication & Database),
-- **Database**: MongoDB, SQL
-- **Version Control**: Git, GitHub
-
-#### 🎨 UI/UX Design:
-- **Figma**: Prototyping and designing interactive and user-centered web layouts
-- **Design Principles**: Responsive Design, Mobile-First Approach, Color Theory, Typography, UI/UX best practices
-
-#### 🔧 Tools & Platforms:
-- **Development**: Visual Studio Code, Node.js, GitHub, NPM
-- **Design**: Figma, Adobe XD, Sketch, Framer Motion
-- **Collaboration**: Slack, Trello, Jira, GitHub Projects
+<br/>
 
 ---
 
-### 🌱 Currently Learning:
-- Deepening my expertise in **React**, **Node.js**, and **JavaScript**.
-- Exploring advanced **UI/UX Design** concepts, including **user research** and **interaction design**.
+## 👨‍💻 About Me
+
+```typescript
+const rigzin: Developer = {
+  name:       "Rigzin Angtak",
+  role:       ["Full-Stack Developer", "UI/UX Designer"],
+  location:   "India 🇮🇳",
+  focus:      "Building web apps that are fast, accessible, and delightful to use",
+  currently:  "Walnut Snowveil — full-stack web platform",
+  learning:   ["Advanced React Patterns", "System Design", "Interaction Design"],
+  askMeAbout: ["Web Dev", "React", "Node.js", "UI/UX", "MongoDB", "Supabase"],
+  hobbies:    ["Hiking 🏔️", "Photography 📸", "Tech Exploration 🔭"],
+  openTo:     ["Collaborations", "Open Source", "Freelance Projects"],
+};
+```
+
+<br/>
 
 ---
 
-### 🤝 Let’s Connect:
-I’m always open to collaborating on exciting projects, sharing ideas, and discussing best practices in web development and design.
+## 🚀 What I'm Building
 
-- 📧 **Email**: [angtakrigzin@gmail.com]
-- 🐦 **Twitter**: [@rigzin](https://twitter.com/rigzin)
-- 🌐 **LinkedIn**: [rigzin-angtak](https://linkedin.com/in/rigzinangtak)
-- 📝 **Dev.to**: [@rigzin](https://dev.to/dev.to/@rigzin)
-- 📸 **Instagram**: [@_rigzin_00_](https://instagram.com/_rigzin_00_)
+<table>
+<tr>
+<td width="50%">
 
----
+### 🌨️ Walnut Snowveil
+![Status](https://img.shields.io/badge/Status-Active-6366F1?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-Next.js%20%7C%20Supabase-8B5CF6?style=flat-square)
 
-### 🛠️ Technical Stack:
-<p align="left">
+A full-stack web platform built with **Next.js App Router**, **Supabase** for auth and database, and a custom design system. Focus on performance, seamless UX, and clean architecture.
 
-  <!-- Frontend -->
-  <a href="https://www.w3.org/TR/html52/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
+[**→ View Repository**](https://github.com/Rigzin00/Walnut-Snowveil)
 
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-
-  <!-- Backend -->
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="40" height="40"/>
-  </a>
-
-  <!-- Database -->
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-
-  <a href="https://supabase.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40"/>
-  </a>
-
-  <!-- Mobile -->
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-
-  <!-- Design -->
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.adobe.com/products/xd.html" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40"/>
-  </a>
-
-  <!-- Tools -->
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
-  </a>
-
-  <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  </a>
-
-</p>
----
-
-### 📊 GitHub Stats & Activity:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rigzin00&show_icons=true&locale=en&layout=compact&langs_count=6" alt="rigzin00" />
-</p>
-
-
-
-
----
+</td>
+<td width="50%">
 
 ### 🎨 UI/UX Design Portfolio
+![Tool](https://img.shields.io/badge/Tool-Figma-F24E1E?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Prototypes%20%7C%20Systems-A855F7?style=flat-square)
 
-- **Figma-based UI/UX Projects**: [View Portfolio](https://www.figma.com/proto/C4VMzsQVriXs5AavWaKyYN/U?page-id=0%3A1&node-id=1-207&viewport=226%2C288%2C0.03&t=XH9MlCy5xKieQ6uO-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=1%3A207)
+End-to-end design work — from user research and wireframes to high-fidelity interactive prototypes. Mobile-first, accessibility-aware, and user-centered.
 
+[**→ View Portfolio**](https://www.figma.com/proto/C4VMzsQVriXs5AavWaKyYN/U?page-id=0%3A1&node-id=1-207&viewport=226%2C288%2C0.03&t=XH9MlCy5xKieQ6uO-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=1%3A207)
 
-### 💬 Fun & Miscellaneous:
-- I’m passionate about building **user-centered** designs and **clean code**.
-- I believe in the **agile workflow** and love being part of **collaborative teams**.
-- **Goal**: To build applications that not only work efficiently but also create delightful user experiences.
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-### 🎯 My Vision:
-I am committed to continuously improving my skills and creating web experiences that combine elegant design with seamless functionality. Whether it's frontend or backend development, or UI/UX design, I strive for excellence in every project I work on.
+## 🛠️ Tech Stack & Skills
+
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br/>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3%2FSCSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>⚙️ Backend & APIs</b></summary>
+<br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B35?style=for-the-badge&logo=postman&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🗄️ Databases & Cloud</b></summary>
+<br/>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🎨 Design & Prototyping</b></summary>
+<br/>
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black)
+
+</details>
+
+<details>
+<summary><b>🔧 Dev Tools & Platforms</b></summary>
+<br/>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+</details>
+
+<br/>
 
 ---
 
-### 🌱 Let's Build Something Great Together!
-If you have a project in mind, or just want to talk about the latest trends in development or design, feel free to reach out. I’m always excited to connect with like-minded professionals and collaborate on innovative ideas.
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rigzin00&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rigzin00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=rigzin00&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=8b5cf6&fire=a855f7&currStreakLabel=6366f1&sideLabels=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=rigzin00&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=8b5cf6&point=a855f7"/>
+</div>
+
+<br/>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img width="96%" src="https://github-profile-trophy.vercel.app/?username=rigzin00&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"/>
+</div>
+
+<br/>
+
+---
+
+## 🧠 Skills Proficiency
+
+```
+Frontend Development   ████████████████████░   90%
+UI/UX Design           ███████████████████░░   85%
+React / Next.js        ████████████████████░   88%
+Node.js / Express      ████████████████░░░░░   75%
+Database Design        ███████████████░░░░░░   70%
+Python / FastAPI       ██████████████░░░░░░░   65%
+Mobile (Flutter)       ████████████░░░░░░░░░   55%
+```
+
+<br/>
+
+---
+
+## 📈 Contribution Overview
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rigzin00&theme=tokyonight" width="96%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rigzin00&theme=tokyonight" width="47%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rigzin00&theme=tokyonight" width="47%"/>
+</div>
+
+<br/>
+
+---
+
+## 🌱 Currently Learning & Exploring
+
+<table>
+<tr>
+<td align="center" width="25%">
+  <img src="https://skillicons.dev/icons?i=react" width="48"/><br/>
+  <b>Advanced React</b><br/>
+  <sub>Patterns, Performance, Concurrent</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br/>
+  <b>Next.js 14+</b><br/>
+  <sub>App Router, Server Actions, RSC</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>
+  <b>Backend Systems</b><br/>
+  <sub>Architecture, API Design, Auth</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://skillicons.dev/icons?i=figma" width="48"/><br/>
+  <b>Design Systems</b><br/>
+  <sub>Components, Tokens, Research</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## 💡 My Development Philosophy
+
+> *"Clean code is not written by following a set of rules. You know you are working on clean code when each routine you read turns out to be pretty much what you expected."*
+
+- **User-First** — Every design and engineering decision starts with the end user
+- **Performance Matters** — Fast is a feature; I optimize for Core Web Vitals from day one
+- **Accessibility** — Inclusive design is not optional; WCAG compliance is a baseline, not a bonus
+- **Clean Architecture** — Maintainable, scalable code over clever one-liners
+- **Agile Mindset** — Ship early, iterate fast, gather real feedback
+
+<br/>
+
+---
+
+## 🤝 Connect & Collaborate
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 📧 Email | [angtakrigzin@gmail.com](mailto:angtakrigzin@gmail.com) |
+| 💼 LinkedIn | [rigzin-angtak](https://linkedin.com/in/rigzinangtak) |
+| 🐦 Twitter | [@rigzin](https://twitter.com/rigzin) |
+| 📝 Dev.to | [@rigzin](https://dev.to/rigzin) |
+| 📸 Instagram | [@_rigzin_00_](https://instagram.com/_rigzin_00_) |
+| 🎨 Portfolio | [Figma Portfolio](https://www.figma.com/proto/C4VMzsQVriXs5AavWaKyYN/U?page-id=0%3A1&node-id=1-207&viewport=226%2C288%2C0.03&t=XH9MlCy5xKieQ6uO-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=1%3A207) |
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1,8B5CF6,A855F7&height=120&section=footer" width="100%"/>
+
+  <b>Open to exciting projects, collaborations, and opportunities.</b><br/>
+  <sub>If you have an idea worth building, let's talk.</sub>
+
+  <br/><br/>
+
+  ⭐ *From [Rigzin00](https://github.com/Rigzin00) — built with passion, not templates.*
+
+</div>
